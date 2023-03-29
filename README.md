@@ -42,3 +42,8 @@ git clone해서 가져
 - stage에 올리기 위해 - git add 파일명
 - 코딩을 하고 내가 최종 저장을 원하는 파일만 stage에 추가한다(git add 파일명)
 - git commit 명령어로 커밋을 만든다
+- 커밋 만들기
+    - 'git commit -m'
+- 스테이징 영역
+ - 'git add' 명령어로 스테이징 영역에 추가
+ 
